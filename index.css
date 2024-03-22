@@ -15,7 +15,7 @@ body {
     overflow: hidden; /* Hide any overflow content */
     display: flex; /* Use flexbox to center the h1 vertically and horizontally */
     justify-content: center; /* Center horizontally */
-    align-items: center; /* Center vertically */
+    align-items: center; /* Center vertically. */
 }
 
 /* Style the h1 element */
@@ -23,5 +23,5 @@ h1 {
     font-weight: bold;
     font-size: 20px;
     text-align: center;
-    color: white; /* Change text color to white */
+    color: white; /* Change text color to white. */
 }
